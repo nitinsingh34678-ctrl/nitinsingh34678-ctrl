@@ -1,18 +1,12 @@
-<!-- =============== ANIMATED SYSTEM INTRO =============== -->
+<!-- =============== ANIMATED HEADER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:003B46,65:005F73,100:00F5FF&height=240&section=header&text=NITIN%20SINGH&fontSize=68&fontColor=00F5FF&fontAlignY=35&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%20MACHINE%20LEARNING&descSize=15&descAlignY=57&animation=fadeIn" alt="Animated Nitin Singh banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:003B46,65:005F73,100:00F5FF&height=240&section=header&text=NITIN%20SINGH&fontSize=68&fontColor=00F5FF&fontAlignY=35&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%20MACHINE%20LEARNING&descSize=15&descAlignY=57&animation=fadeIn" alt="Nitin Singh animated industrial banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+HELLO%2C+WORLD!+I%27M+NITIN+SINGH;%3E+BTECH+CSE+%7C+AI%2FML+STUDENT;%3E+I+BUILD.+I+DEBUG.+I+EVOLVE.;%3E+SYSTEM+ONLINE.+WELCOME+TO+MY+PROFILE." alt="Animated developer introduction"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+HELLO%2C+WORLD!+I%27M+NITIN+SINGH;%3E+BTECH+CSE+%7C+AI%2FML+STUDENT;%3E+I+BUILD.+I+DEBUG.+I+EVOLVE.;%3E+SYSTEM+ONLINE.+WELCOME+TO+MY+PROFILE." alt="Animated introduction"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%5B+DSA+%5D+%5B+C%2B%2B+%5D+%5B+PYTHON+%5D;%5B+MACHINE+LEARNING+%5D+%5B+SOFTWARE+DEVELOPMENT+%5D;%5B+LEARN+%3E+BUILD+%3E+IMPROVE+%5D" alt="Animated technical interests"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=080808" alt="System online"/>
 <img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20AI%2FML-00A6A6?style=for-the-badge&labelColor=080808" alt="Current focus"/>
@@ -34,31 +28,68 @@
 
 ---
 
-<!-- =============== SYSTEM PROFILE =============== -->
-
-<h2 align="center">[ SYSTEM PROFILE ]</h2>
+<!-- =============== ANIMATED SYSTEM PROFILE =============== -->
 
 <div align="center">
 
-```text
-+--------------------------------------------------+
-|  USER       : NITIN SINGH                        |
-|  ROLE       : STUDENT DEVELOPER                  |
-|  DOMAIN     : ARTIFICIAL INTELLIGENCE & ML       |
-|  LANGUAGES  : C / C++ / PYTHON                   |
-|  INTERESTS  : DSA / ML / SOFTWARE DEVELOPMENT   |
-|  OBJECTIVE  : BUILD. LEARN. OPTIMIZE. REPEAT.    |
-+--------------------------------------------------+
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%3E+WHOAMI;%3E+IDENTITY+VERIFIED;%3E+WELCOME+TO+MY+DIGITAL+WORKSPACE" alt="Animated system profile heading"/>
 
-### ENGINEERING IDEAS INTO REALITY.
+<br/>
+
+<img src="https://img.shields.io/badge/USER-NITIN%20SINGH-00F5FF?style=for-the-badge&labelColor=080808" alt="Name"/>
+<img src="https://img.shields.io/badge/ROLE-STUDENT%20DEVELOPER-00A6A6?style=for-the-badge&labelColor=080808" alt="Role"/>
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-7B2FFF?style=for-the-badge&labelColor=080808" alt="Domain"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/01-PROGRAMMING-00F5FF?style=flat-square&labelColor=080808" alt="Programming"/>
+
+<br/><br/>
+
+**C · C++ · Python**
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02-CORE%20INTERESTS-FF00FF?style=flat-square&labelColor=080808" alt="Core interests"/>
+
+<br/><br/>
+
+**DSA · Machine Learning**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/03-CURRENT%20MISSION-00A6A6?style=flat-square&labelColor=080808" alt="Current mission"/>
+
+<br/><br/>
+
+**Learn · Build · Improve**
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/04-MINDSET-7B2FFF?style=flat-square&labelColor=080808" alt="Mindset"/>
+
+<br/><br/>
+
+**Problem Solver in Progress**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+ENGINEERING+IDEAS+INTO+REALITY.;%3E+EVERY+BUG+IS+A+LESSON.;%3E+BUILDING+MY+NEXT+LEVEL..." alt="Animated developer mindset"/>
 
 </div>
-
-* `01` — Developing practical software projects.
-* `02` — Strengthening data structures and algorithms.
-* `03` — Exploring machine learning and AI applications.
-* `04` — Improving through coding, experimentation, and problem-solving.
 
 ---
 
@@ -70,11 +101,11 @@
 
 ### `01 // PROGRAMMING LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="C, C++, Python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="C, C++, and Python"/>
 
 ### `02 // DEVELOPMENT TOOLS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" alt="Git, GitHub, VS Code, LaTeX"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" alt="Git, GitHub, VS Code, and LaTeX"/>
 
 ### `03 // PYTHON ECOSYSTEM`
 
@@ -94,7 +125,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsingh34678-ctrl&show_icons=true&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=E6E6FA&icon_color=00A6A6&ring_color=00F5FF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh34678-ctrl&layout=compact&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=E6E6FA" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh34678-ctrl&layout=compact&hide_border=true&bg_color=080808&title_color=00F5FF&text_color=E6E6FA" alt="Most used programming languages"/>
 
 <br/><br/>
 
