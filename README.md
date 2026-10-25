@@ -1,16 +1,22 @@
-<!-- =============== SYSTEM HEADER =============== -->
+<!-- =============== ANIMATED SYSTEM INTRO =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,35:101820,70:003B46,100:005F73&height=230&section=header&text=NITIN%20SINGH&fontSize=68&fontColor=00F5FF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%20MACHINE%20LEARNING&descSize=15&descAlignY=62&animation=fadeIn" alt="Nitin Singh Tech Industrial Banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2200&pause=650&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%3E+SYSTEM+INITIALIZED;%3E+BTECH+CSE+%7C+AI%2FML;%3E+C%2B%2B+%7C+PYTHON+%7C+DATA+STRUCTURES;%3E+MACHINE+LEARNING+IN+PROGRESS;%3E+BUILDING.+DEBUGGING.+EVOLVING." alt="Animated terminal introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:003B46,65:005F73,100:00F5FF&height=240&section=header&text=NITIN%20SINGH&fontSize=68&fontColor=00F5FF&fontAlignY=35&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%20MACHINE%20LEARNING&descSize=15&descAlignY=57&animation=fadeIn" alt="Animated Nitin Singh banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00F5FF?style=for-the-badge&labelColor=080808" alt="Learning"/>
-<img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20AI%2FML-00A6A6?style=for-the-badge&labelColor=080808" alt="Focus"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20REPEAT-FF00FF?style=for-the-badge&labelColor=080808" alt="Build mode"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+HELLO%2C+WORLD!+I%27M+NITIN+SINGH;%3E+BTECH+CSE+%7C+AI%2FML+STUDENT;%3E+I+BUILD.+I+DEBUG.+I+EVOLVE.;%3E+SYSTEM+ONLINE.+WELCOME+TO+MY+PROFILE." alt="Animated introduction"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%5B+DSA+%5D+%5B+C%2B%2B+%5D+%5B+PYTHON+%5D;%5B+MACHINE+LEARNING+%5D+%5B+SOFTWARE+DEVELOPMENT+%5D;%5B+LEARN+%3E+BUILD+%3E+IMPROVE+%5D" alt="Animated technical interests"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=080808" alt="System online"/>
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20AI%2FML-00A6A6?style=for-the-badge&labelColor=080808" alt="Current focus"/>
+<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20REPEAT-FF00FF?style=for-the-badge&labelColor=080808" alt="Developer mode"/>
 
 <br/><br/>
 
@@ -56,7 +62,7 @@
 
 ---
 
-<!-- =============== TECH STACK =============== -->
+<!-- =============== TECH ARSENAL =============== -->
 
 <h2 align="center">[ TECH ARSENAL ]</h2>
 
