@@ -27,3 +27,4 @@ jobs:
           publish_branch: output
           publish_dir: dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          keep_files: true
