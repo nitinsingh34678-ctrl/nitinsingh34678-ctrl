@@ -1,32 +1,43 @@
+<!-- ================ ANIMATED HEADER ================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=NITIN%20SINGH&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%2FML%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=55&animation=fadeIn" width="100%" alt="Profile Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,25:120458,50:4B0082,75:0077FF,100:00F5FF&height=220&section=header&text=NITIN%20SINGH&fontSize=60&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20ENGINEER%20IN%20THE%20MAKING&descSize=16&descAlignY=58&animation=fadeIn&stroke=00F5FF&strokeWidth=1" alt="Animated neon header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects%2C+one+line+at+a+time;Learning+DSA+and+Machine+Learning;Turning+ideas+into+working+software;Code.+Learn.+Build.+Repeat." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=100&lines=%3E+Initializing+developer+profile...;%3E+BTech+CSE+%7C+Artificial+Intelligence+%26+ML;%3E+DSA+%7C+C%2B%2B+%7C+Python;%3E+Building+projects+that+solve+real+problems;%3E+Turning+coffee-free+ideas+into+code;%3E+System+online.+Let%27s+build+something." alt="Animated developer introduction"/>
 </a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00F5FF?style=for-the-badge&labelColor=080019" alt="Learning status"/>
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20AI%2FML-8A2BE2?style=for-the-badge&labelColor=080019" alt="Current focus"/>
+<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20REPEAT-FF00FF?style=for-the-badge&labelColor=080019" alt="Developer mode"/>
+
+<br/><br/>
+
 <a href="https://github.com/nitinsingh34678-ctrl">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/nitinsingh-aiml">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:nitinsingh34678@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-FF006E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-## `$ whoami`
+<!-- ================ ABOUT ME ================ -->
+
+<h2 align="center">⚡ SYSTEM PROFILE</h2>
 
 ```yaml
 name: Nitin Singh
 education: BTech CSE - Artificial Intelligence & Machine Learning
+role: Student Developer
 interests:
   - Data Structures & Algorithms
   - Machine Learning
@@ -37,112 +48,140 @@ currently_learning:
   - Python
   - Problem Solving
   - Machine Learning Fundamentals
-mindset: "Learn by building. Improve by solving."
+mission: Build useful things and become a better engineer.
 ```
 
-* Building practical projects to strengthen my programming skills.
-* Exploring algorithms, data structures, and machine learning.
-* Interested in collaborating on open-source projects.
-* Learning by building, experimenting, and solving problems.
+<div align="center">
 
-> My goal: Turn what I learn into projects that actually work.
+**I learn by building. I improve by solving. I grow by shipping.**
 
-## `$ tech --list`
+</div>
+
+* Developing practical programming projects.
+* Strengthening my understanding of data structures and algorithms.
+* Exploring machine learning and AI applications.
+* Interested in open-source collaboration and learning from other developers.
+
+---
+
+<!-- ================ TECH STACK ================ -->
+
+<h2 align="center">⚙️ TECH ARSENAL</h2>
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python" alt="C, C++, Python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="C, C++, and Python"/>
 
-### Tools & Technologies
+### 🛠️ Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,latex" alt="Git, GitHub, VS Code, LaTeX"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" alt="Git, GitHub, VS Code, and LaTeX"/>
 
-### Python Libraries
+### 📊 Python Ecosystem
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00F5FF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Matplotlib"/>
 
 </div>
 
 ---
 
-## `$ git status`
+<!-- ================ GITHUB STATS ================ -->
+
+<h2 align="center">📡 DEVELOPER TELEMETRY</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsingh34678-ctrl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsingh34678-ctrl&show_icons=true&hide_border=true&bg_color=080019&title_color=00F5FF&text_color=E6E6FA&icon_color=FF00FF&ring_color=00F5FF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh34678-ctrl&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh34678-ctrl&layout=compact&hide_border=true&bg_color=080019&title_color=00F5FF&text_color=E6E6FA" alt="Most used programming languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nitinsingh34678-ctrl&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
-## `$ achievements --show`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nitinsingh34678-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub Trophies"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=nitinsingh34678-ctrl&hide_border=true&background=080019&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=E6E6FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8888AA" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `$ ls projects/`
+<!-- ================ TROPHIES ================ -->
+
+<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nitinsingh34678-ctrl&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub achievements"/>
+
+</div>
+
+---
+
+<!-- ================ PROJECTS ================ -->
+
+<h2 align="center">🚀 PROJECT HANGAR</h2>
 
 <div align="center">
 
 <a href="https://github.com/nitinsingh34678-ctrl/RESQ-disaster-response-simulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinsingh34678-ctrl&repo=RESQ-disaster-response-simulator&theme=tokyonight&hide_border=true" alt="RESQ Disaster Response Simulator"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinsingh34678-ctrl&repo=RESQ-disaster-response-simulator&hide_border=true&bg_color=080019&title_color=00F5FF&text_color=E6E6FA&icon_color=FF00FF" alt="RESQ Disaster Response Simulator"/>
 </a>
 
 <a href="https://github.com/nitinsingh34678-ctrl/Python_PBL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinsingh34678-ctrl&repo=Python_PBL&theme=tokyonight&hide_border=true" alt="Python PBL Project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinsingh34678-ctrl&repo=Python_PBL&hide_border=true&bg_color=080019&title_color=00F5FF&text_color=E6E6FA&icon_color=FF00FF" alt="Python PBL"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/nitinsingh34678-ctrl?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
 </a>
 
 </div>
 
 ---
 
-## `$ play_contributions.sh`
+<!-- ================ CONTRIBUTION GAMES ================ -->
 
-### Snake Game
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nitinsingh34678-ctrl/nitinsingh34678-ctrl/output/snake.svg" alt="Snake Contribution Game" width="100%"/>
-
-</div>
-
-### Pac-Man
+<h2 align="center">🎮 CONTRIBUTION ARCADE</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nitinsingh34678-ctrl/nitinsingh34678-ctrl/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Game" width="100%"/>
+### 🐍 SNAKE: CONTRIBUTION HUNTER
+
+*Watch the Snake collect the squares from my GitHub contribution graph.*
+
+<img src="https://raw.githubusercontent.com/nitinsingh34678-ctrl/nitinsingh34678-ctrl/output/snake.svg" width="100%" alt="GitHub contribution Snake game"/>
+
+<br/>
+
+### 👾 PAC-MAN: COMMIT CHASER
+
+*The classic arcade vibe meets GitHub contributions.*
+
+<img src="https://raw.githubusercontent.com/nitinsingh34678-ctrl/nitinsingh34678-ctrl/output/pacman-contribution-graph.svg" width="100%" alt="GitHub contribution Pac-Man game"/>
 
 </div>
 
 ---
 
-## `$ echo $MOTTO`
+<!-- ================ DEVELOPER MOTTO ================ -->
 
 <div align="center">
 
-### `Code. Learn. Build. Repeat.`
+<h2>💠 DEVELOPER PROTOCOL</h2>
 
-*Every commit is a step forward.*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nitinsingh34678-ctrl&style=for-the-badge&color=0e75b6&label=PROFILE+VISITORS" alt="Profile Visitors"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=FF00FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Repeat;Consistency+beats+motivation.;Every+bug+is+a+lesson.;Keep+building.+Keep+improving." alt="Animated developer motto"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://komarev.com/ghpvc/?username=nitinsingh34678-ctrl&style=for-the-badge&color=7B2FFF&label=PROFILE+VISITORS" alt="Profile visitors"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:0077FF,50:4B0082,75:120458,100:05001A&height=140&section=footer&animation=fadeIn" alt="Animated neon footer"/>
 
 </div>
